@@ -2,8 +2,9 @@
 layout: cv
 title: João Tiago Ferreira's CV
 ---
-# João Tiago de Jesus Elias Ferreira
-Software Engineer
+<div class="header">
+<h1>João Tiago de Jesus Elias Ferreira</h1>
+<p>Software Engineer</p>
 
 <div id="webaddress">
 <a href="mailto:jtjeferreira@gmail.com">jtjeferreira@gmail.com</a>
@@ -14,7 +15,7 @@ Software Engineer
 |
 <i class="fa fa-linkedin"></i> <a href="https://pt.linkedin.com/in/joaotiagoferreira">joaotiagoferreira</a>
 </div>
-
+</div>
 
 ## Currently
 
